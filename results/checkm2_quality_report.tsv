@@ -1,0 +1,11 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Additional_Notes
+Choleraesuis_SC-B67	100.0	0.16	Neural Network (Specific Model)	11	0.868	4755700	299.09680784477365	4944000	0.52	4793	None
+Enteritidis_P125109	100.0	0.23	Neural Network (Specific Model)	11	0.869	4685848	311.8462067384827	4685848	0.52	4363	None
+Heidelberg_SL476	100.0	0.26	Neural Network (Specific Model)	11	0.871	4888768	309.79273504273505	4983515	0.52	4680	None
+Newport_SL254	100.0	0.14	Neural Network (Specific Model)	11	0.873	4827641	310.17137396474834	5007719	0.52	4709	None
+ParatyphiA_ATCC9150	100.0	0.29	Neural Network (Specific Model)	11	0.875	169135	305.13148788927333	4526687	0.52	4335	None
+Typhi_CT18	100.0	0.52	Neural Network (Specific Model)	11	0.867	4809037	293.71076011846003	5133713	0.52	5065	None
+Typhi_Ty2	100.0	0.16	Neural Network (Specific Model)	11	0.868	4791961	299.97971077055905	4791961	0.52	4633	None
+Typhimurium_14028S	100.0	0.19	Neural Network (Specific Model)	11	0.872	4870263	312.88291069459757	4870263	0.52	4535	None
+Typhimurium_LT2	100.0	0.27	Neural Network (Specific Model)	11	0.872	4857450	311.37243465111254	4951383	0.52	4629	None
+Typhimurium_SL1344	100.0	0.13	Neural Network (Specific Model)	11	0.871	4878012	308.92269013199245	5067450	0.52	4773	None

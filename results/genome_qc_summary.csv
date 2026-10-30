@@ -1,0 +1,11 @@
+genome,accession,serovar,Completeness,Contamination,Genome_Size,GC_Content,cds,trna,rrna,tmrna,qc_verdict
+Typhimurium_LT2,GCF_000006945.2,Typhimurium,100.0,0.27,4951383,0.52,4620,86,22,1,high quality
+Typhimurium_SL1344,GCF_000210855.2,Typhimurium,100.0,0.13,5067450,0.52,4764,86,22,1,high quality
+Typhimurium_14028S,GCF_008244845.1,Typhimurium,100.0,0.19,4870263,0.52,4526,86,22,1,high quality
+Enteritidis_P125109,GCF_000009505.1,Enteritidis,100.0,0.23,4685848,0.52,4352,85,22,1,high quality
+Typhi_CT18,GCF_000195995.1,Typhi,100.0,0.52,5133713,0.52,5052,81,22,1,high quality
+Typhi_Ty2,GCF_000007545.1,Typhi,100.0,0.16,4791961,0.52,4621,80,22,1,high quality
+Heidelberg_SL476,GCF_000020705.1,Heidelberg,100.0,0.26,4983515,0.52,4672,84,22,1,high quality
+Newport_SL254,GCF_000016045.1,Newport,100.0,0.14,5007719,0.52,4695,88,22,1,high quality
+Choleraesuis_SC-B67,GCF_000008105.1,Choleraesuis,100.0,0.16,4944000,0.52,4783,86,22,1,high quality
+ParatyphiA_ATCC9150,GCA_010634545.1,Paratyphi A,100.0,0.29,4526687,0.52,4303,69,4,1,high quality
